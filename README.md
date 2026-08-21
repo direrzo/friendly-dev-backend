@@ -4,6 +4,13 @@ This is the backend service for my React portfolio and practice project. It serv
 
 ---
 
+## 🚀 Live API
+
+The live version of this backend is deployed on Render and can be accessed at:  
+**[https://friendly-dev-backend-81hv.onrender.com/api](https://friendly-dev-backend-81hv.onrender.com/api)** 
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Strapi** – Headless CMS for content management
